@@ -1,0 +1,7 @@
+{
+  "name": "CreativeFlow",
+  "description": "A frictionless creative collaboration and approval platform for agencies and clients. Features visual annotations, version control, and AI-assisted workflow.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
